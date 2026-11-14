@@ -2,13 +2,13 @@
 
 <!-- ===== Основной текст (пишет DigitalM00N) ===== -->
 
-
+Русский перевод для игры Terranigma (SNES)
 
 <!-- ===== конец основного текста ===== -->
 
 ## Установка патча
 
-1. Нужна своя копия европейской версии: `Terranigma (Europe).sfc`, 4 МБ, MD5 `d202156549f981f6dafc759575dd6e67`.
+1. Нужна копия европейской версии: `Terranigma (Europe).sfc`, 4 МБ, MD5 `d202156549f981f6dafc759575dd6e67`.
 2. Наложите [`patch/Terranigma_RUS.bps`](patch/Terranigma_RUS.bps) любой программой для BPS (Floating IPS, Beat, Rom Patcher JS).
 3. Получится ROM на 8 МБ (ExHiROM). Подходят Mesen 2, bsnes/higan, свежий Snes9x.
 
@@ -28,7 +28,6 @@
 | `tools/lz.py` | сжатие графики игры |
 
 Текст перевода — в `script/rus/`, глоссарий — `script/glossary.txt`.
-`script/eng/` в репозиторий не входит: это текст из ROM, его делают из своей копии игры.
 
 ## Сборка
 
