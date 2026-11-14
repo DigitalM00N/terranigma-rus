@@ -1,0 +1,17 @@
+# ROM images (original and built) are not distributed
+*.sfc
+*.smc
+*.srm
+*.mss
+
+# text extracted from the game ROM: regenerate with tools/extract.py
+script/eng/
+
+# local build output (the release patch lives in patch/)
+build/
+
+# local workspace, emulator, caches
+work/
+emulator/
+__pycache__/
+*.pyc

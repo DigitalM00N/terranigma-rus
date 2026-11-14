@@ -1,0 +1,157 @@
+# Глоссарий русификатора: как уже переведены имена и термины в меню и таблицах.
+# Держи диалоги в согласии с этим списком (или поменяй здесь и в menu_92.txt / tables.txt).
+
+## Персонажи
+Ark            Арк (имя по умолчанию, tables.txt hero:default)
+Elle           Элль
+Elder          Старейшина
+Yomi           Йоми
+Kumari         Кумари
+Meiho          Мэйхо
+Meilin         Мэйлин
+Fyda           Файда
+Royd           Ройд
+Perel          Перел
+Princess       Принцесса
+Gull           Гулл
+Beruga         Беруга
+Leim           Лейм
+Turbo          Турбо
+Columbus       Колумб
+Will           Уилл
+Servas         Сервас
+Marily         Мэрили
+Matis          Матис
+Mud Doll       Голем
+Guardian       Страж
+Mermaid        Русалка
+Mt. goat       Горный козёл
+# --- добавлено при переводе диалогов ---
+Luki           Луки
+Chija          Чиджа
+Hedyn          Хедин
+Temjin         Темджин
+Molly          Молли
+Rich           Рич («супер-Рич»)
+Jean / Louis   Жан / Луи («пьяница Луи»)
+Pierre         Пьер
+Mme. Papilo    мадам Папило
+Bounty         Баунти
+White Wind     Белый Ветер
+King Henri     король Анри
+Stoma          Стома
+Mick (Mack)    Мик («Мик-Бургер»)
+Eddy           Эдди
+Bell / Amanda  Белл / Аманда
+Anita          Анита (Линда, Пол, Гарри — дети Кидсгарта)
+Dr. Emilio     доктор Эмилио
+Lon / Wong     Лон / Вонг
+Nana           Нана
+Keinz          Кейнц
+Muroy          Мурой
+Mifta          Мифта
+Tera           Тера
+Neo            Нео (царь львов)
+Simon / Kameski  носорог Саймон / черепаха Камески
+Kingbird       Царь-птица
+Quatro(s)      Кватро (кочевники)
+Light/Dark Gaia  Светлая / Тёмная Гайя
+Bloody Mary    Кровавая Мэри
+Meila/Meilia/Pela/Roy/Fyla  Мэйла / Мэйлия / Пела / Рой / Файла (сон в Астарике)
+Lily           Лилия
+
+## Места
+Loire          Луара
+Neotokio       Неотокио
+Suncoast       Санкоуст
+Litz           Литц
+Rococo         Рококо
+Nirlake        Нирлейк
+Mush Woods     Грибной лес
+Gumin Forest   лес Гумин
+Tower 1..5     Башня 1..5
+Eurasia        Евразия
+S. America     Ю. Америка
+N. America     С. Америка
+Africa         Африка
+Australia      Австралия
+# --- добавлено при переводе диалогов ---
+Crysta         Криста
+Lhasa          Лхаса
+Louran         Лоуран
+Lost Desert    Пустыня Потерь
+Storkolm       Сторкольм
+Norfest Forest лес Норфест
+Starview Bridge Звёздный мост
+Freedom        Фридом
+Kidsgart       Кидсгарт
+Yunkou         Юнкоу
+Mosque         Моск
+Dragoon Castle замок Драгун
+Spain / Sylvain Испания / замок Сильвен
+Liotto         Лиотто
+Astarica       Астарика
+Great Lakes    Великие озёра
+Five Lakes     Пять озёр
+Colorado River река Колорадо
+Mermaid Tower  Башня русалок
+Evegreen       Эвергрин
+Eklemata       Эклемата
+Zue            Зуе
+Windvale       Долина ветров
+Sanctuar       Санктуар
+Safarium       Сафариум
+Kamiyo         Камийо
+Airsrock       Эйрсрок
+Greenland / Alaska  Гренландия / Аляска
+Siberia        Сибирь
+Corcobad Hill  холм Коркобад
+Mu / Polynese  Му / Полинезия
+
+## Термины
+Magirock       Магирок
+Ra Tree        Древо Ра
+Parasite       Паразит
+Lightside      Светлая (сторона)
+Darkside       Тёмная (сторона)
+Starstone      Звездный камень (в меню: «Звезд.кам»)
+STR / DEF      СИЛ / ЗАЩ
+LIFE           ЖИЗНЬ
+EXP / NEXT     ОПЫТ / СЛЕД
+# --- добавлено при переводе диалогов ---
+crystal blue   хрустальная синь
+Pandora's Box  ящик Пандоры (сам предмет — «ларец»)
+Gems           камни (валюта: «10 камней»)
+Crystal Spear  Хрусталь-копьё
+healing bulb   лечебный клубень (Малый / Средний / Большой клубень)
+Elle's cape    Плащ Элль
+Protect Bell   Колокольчик
+golden child   золотое дитя
+Rainfall Altar Алтарь дождя
+Gaia Stone     Камень Гайи
+Asmodeus       Асмодей (вирус)
+Item/Weapon/Armor Room  Кладовая / Оружейная / Доспехи; Whole Hole — Мусорка
+Cream-a-Cat    «Сбей кота»
+Noodle King    Король лапши
+"Big guy" (Лейм об Арке)  здоровяк
+Монстры: Huball — Хубол, Cadet — Кадет, Dark Twins — Тёмные близнецы,
+  Storm Master — Повелитель бурь, Dark Morph — Тёмный оборотень,
+  Quaker — Трясун, Sabredog — Саблепёс, Guardner — Садовник.
+Кнопки (SELECT, A/B, L) оставлены латиницей, как в menu_92.
+
+## Правила текста
+- Строка окна — не больше 18 символов (маленькое окно подсказок [db] — 14).
+- [name:00] — имя героя, закладывай 5 символов; падеж у него не меняется,
+  поэтому строй фразу так, чтобы имя стояло в именительном падеже или в обращении.
+- Заглавные Щ Ъ Ы Ь Й занимают 2 байта, остальные буквы — 1.
+
+## Надписи локаций (locations.txt) — отличия от основных названий из-за длины
+Storkolm       Сторколм
+Windvale       Д.Ветров
+Polynese       Полинез.
+Mush (Woods)   Лес
+Elder's        Старец
+Nomads'        Кочевн.
+Inn            Инн
+Jail           Тюр.
+Mill           Мел.
