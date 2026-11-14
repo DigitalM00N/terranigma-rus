@@ -8,6 +8,14 @@
 
 <!-- ===== конец основного текста ===== -->
 
+## Скриншоты
+
+| | |
+|:-:|:-:|
+| ![Титульный экран](screenshots/Terranigma_RUS_005.png) | ![Ввод имени](screenshots/Terranigma_RUS_007.png) |
+| ![Криста](screenshots/Terranigma_RUS_002.png) | ![Диалог](screenshots/Terranigma_RUS_001.png) |
+| ![Диалог](screenshots/Terranigma_RUS_003.png) | ![Диалог](screenshots/Terranigma_RUS_000.png) |
+
 ## Установка патча
 
 1. Нужна копия европейской версии: `Terranigma (Europe).sfc`, 4 МБ, MD5 `d202156549f981f6dafc759575dd6e67`.
